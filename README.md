@@ -114,15 +114,6 @@ Follow these steps to set up the project on your local machine.
     ```bash
     python main.py
     ```
-
----
-
-## 📸 Screenshots
-
-| **Login Screen** | **Customer Dashboard** | **Admin Panel** |
-|:---:|:---:|:---:|
-| ![Login](https://via.placeholder.com/300x200?text=Login+Page) | ![Customer](https://via.placeholder.com/300x200?text=Customer+View) | ![Admin](https://via.placeholder.com/300x200?text=Admin+Panel) |
-
 ---
 
 ## 📞 Contact
